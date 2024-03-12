@@ -139,7 +139,7 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "axios": "^1.5.1",
+    "axios": "^1.6.7",
     "bignumber.js": "^9.1.2",
     "eventsource": "^2.0.2",
     "randombytes": "^2.1.0",
